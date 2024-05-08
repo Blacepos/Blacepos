@@ -1,5 +1,3 @@
-- Hello! My name is Joshua (aka [Blacepos](https://github.com/Blacepos)). I'm a student at Michigan State University.
-- You've come across my personal GitHub account. I also have another account for college work [JoshuaRAustin](https://github.com/JoshuaRAustin).
 - 🚧[blacepos.xyz](http://blacepos.xyz/)
 - Contact info:
   - Email: [austi121@msu.edu](mailto:austi121@msu.edu)
