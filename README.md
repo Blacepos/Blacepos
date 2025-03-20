@@ -1,4 +1,5 @@
 - 🚧[blacepos.xyz](http://blacepos.xyz/)
-- Contact info:
+- Links:
   - Email: [austi121@msu.edu](mailto:austi121@msu.edu)
   - LinkedIn: [Joshua Austin](https://www.linkedin.com/in/joshua-austin-b5a34b234)
+  - YouTube: https://www.youtube.com/@blacepos5862
