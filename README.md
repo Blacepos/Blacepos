@@ -1,5 +1,5 @@
-- [blacepos.xyz](https://blacepos.xyz/)
 - Links:
+  - Website: [blacepos.xyz](https://blacepos.xyz/)
   - Email: [jraustin999@gmail.com](mailto:jraustin999@gmail.com)
   - LinkedIn: [Joshua Austin](https://www.linkedin.com/in/joshua-austin-b5a34b234)
   - YouTube: https://www.youtube.com/@blacepos5862
