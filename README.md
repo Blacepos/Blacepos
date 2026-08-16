@@ -1,5 +1,5 @@
 - Links:
-  - Website: [blacepos.xyz](https://blacepos.xyz/)
+  - Website: [blacepos.xyz](https://blacepos.xyz/) (OFFLINE UNTIL OCTOBER 2026)
   - Email: [jraustin999@gmail.com](mailto:jraustin999@gmail.com)
   - LinkedIn: [Joshua Austin](https://www.linkedin.com/in/joshua-austin-b5a34b234)
   - YouTube: https://www.youtube.com/@blacepos
