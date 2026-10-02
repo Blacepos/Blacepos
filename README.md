@@ -1,5 +1,6 @@
 - Links:
-  - Website: [blacepos.xyz](https://blacepos.xyz/) (OFFLINE UNTIL OCTOBER 2026)
+  - Website: [blacepos.xyz](https://blacepos.xyz/) (Offline until my quirky ISP Centric Fiber stops having a monopoly in my area or they add support for IPv6)
   - Email: [jraustin999@gmail.com](mailto:jraustin999@gmail.com)
   - LinkedIn: [Joshua Austin](https://www.linkedin.com/in/joshua-austin-b5a34b234)
   - YouTube: https://www.youtube.com/@blacepos
+  - Bandcamp: https://blacepos.bandcamp.com
